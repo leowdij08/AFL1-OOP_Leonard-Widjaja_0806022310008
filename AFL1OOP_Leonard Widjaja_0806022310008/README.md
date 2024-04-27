@@ -4,9 +4,9 @@
 Project ini adalah project berbasis Java yang digunakan untuk mengorganisir sebuah perpustakaan. Project ini dapat mengatur kegiatan-kegiatan yang umumnya dilakukan di perpustakaan, seperti peminjaman buku dan cd, berdasarkan inputan dari penggunanya.
 
 ## User Roles
-- **Mahasiswa & Dosen:** Dapat melihat list buku dan cd yang tersedia, sesudah diinput ke dalam sistem oleh pustakawan.
+- **Mahasiswa & Dosen:** Dapat melihat list buku dan cd yang tersedia, sesudah NIM/NIK dan nama mereka diinput ke dalam sistem oleh pustakawan.
   
-- **Pustakawan:** Dapat menambahkan dan melihat list buku, list cd, list mahasiswa, list dosen, list pustakawan, list peminjaman, dan list pengembalian.
+- **Pustakawan:** Dapat menambahkan dan melihat list buku, list cd, list mahasiswa, list dosen, list pustakawan, list peminjaman, dan list pengembalian sesudah terdaftar di sistem oleh Pustakawan pertama dengan ID Pustakawan "1" dan nama "Leo".
 
 ## Data Output
 Setelah data-data diinput di program, data akan keluar dalam bentuk tabel yang sudah disusun secara rapi, dan otomatis dalam bentuk txt.
