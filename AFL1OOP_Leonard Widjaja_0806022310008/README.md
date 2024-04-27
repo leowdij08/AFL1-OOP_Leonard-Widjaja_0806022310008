@@ -10,3 +10,11 @@ Project ini adalah project berbasis Java yang digunakan untuk mengorganisir sebu
 
 ## Data Output
 Setelah data-data diinput di program, data akan keluar dalam bentuk tabel yang sudah disusun secara rapi, dan otomatis dalam bentuk txt.
+
+## Running This Project
+Untuk menjalankan project ini, berikut langkah-langkahnya:
+1. Pastikan anda sudah menginstall Java Development Kit (JDK)
+2. Copy/download repository ini
+3. Buka project ini lalu buka terminal anda
+4. Jalankan program ini
+5. Untuk memulai anda harus masuk sebagai pustakawan terlebih dahulu, dengan ID Pustakawan "1" dan nama "Leo", lalu anda bisa masuk lebih dalam ke program ini.
